@@ -1,0 +1,27 @@
+body {
+  background-color: lightcyan;
+}
+
+.scoreboard {
+  background-color: lightblue;
+  opacity: 25%;
+  border-style: solid;
+  border-color: purple;
+  border-radius: 20px;
+}
+
+.home {
+  background-color: blue;
+  opacity: 50%;
+  border-style: solid;
+  border-color: purple;
+  border-radius: 20px;
+}
+
+.away {
+  background-color: blue;
+  opacity: 50%;
+  border-style: solid;
+  border-color: purple;
+  border-radius: 20px;
+}
